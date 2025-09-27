@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 <p align="center">
-  <img src="./pacman-contribution-graph.svg" alt="Pacman animation" />
+  <img src="https://raw.githubusercontent.com/hxrdikk/hxrdikk/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 </p>
 
 <!--
