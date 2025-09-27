@@ -1,8 +1,9 @@
-## Hi there 👋  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=600&size=35&center=true&vCenter=true&duration=4000&pause=1000&color=5D55AE&width=500&lines=Hello+there!;I'm+Hardik+👋;Welcome+to+my+GitHub" alt="Typing SVG" />
+</h1>
 
 <div align="center">
   
-  ## 🔥 Streak Stats  
   <img src="https://nirzak-streak-stats.vercel.app/?user=hxrdikk&theme=dark&hide_border=false" alt="GitHub Streaks" />  
 
 </div>
