@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋  
+
+<p align="center">
+  <img src="./pacman-contribution-graph.svg" alt="Pacman animation" />
+</p>
 
 <!--
 **hxrdikk/hxrdikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
