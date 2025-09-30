@@ -24,8 +24,8 @@
 [![LinkedIn](./Images/linkedin-dark.svg#gh-dark-mode-only)](https://www.linkedin.com/in/you-found-me-hardik#gh-dark-mode-only) &nbsp;&nbsp;
 [![Instagram](./Images/instagram-light.svg#gh-light-mode-only)](https://instagram.com/hxrdikkk#gh-light-mode-only)
 [![Instagram](./Images/instagram-dark.svg#gh-dark-mode-only)](https://instagram.com/hxrdikkk#gh-dark-mode-only) &nbsp;&nbsp;
-[![YouTube](./Images/youtube-light.svg#gh-light-mode-only)](https://youtube.com/@hxrdikkk#gh-light-mode-only)
-[![YouTube](./Images/youtube-dark.svg#gh-dark-mode-only)](https://youtube.com/@hxrdikkk#gh-dark-mode-only)
+[![YouTube](./Images/youtube-light.svg#gh-light-mode-only)](https://youtube.com/@hxrdikk#gh-light-mode-only)
+[![YouTube](./Images/youtube-dark.svg#gh-dark-mode-only)](https://youtube.com/@hxrdikk#gh-dark-mode-only)
 
 <!--
 **hxrdikk/hxrdikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
