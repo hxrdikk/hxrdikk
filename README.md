@@ -27,6 +27,12 @@
 [![YouTube](./Images/youtube-light.svg#gh-light-mode-only)](https://youtube.com/@hxrdikk#gh-light-mode-only)
 [![YouTube](./Images/youtube-dark.svg#gh-dark-mode-only)](https://youtube.com/@hxrdikk#gh-dark-mode-only)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hxrdikkk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hxrdikkk" /></a></p><br><br>
 <!--
 **hxrdikk/hxrdikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
