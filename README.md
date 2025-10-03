@@ -93,9 +93,9 @@ From frameworks to editors, they shape the way I create meaningful experiences â
 [![Instagram](./Images/instagram-light.svg#gh-light-mode-only)](https://instagram.com/hxrdikkk#gh-light-mode-only)
 [![Instagram](./Images/instagram-dark.svg#gh-dark-mode-only)](https://instagram.com/hxrdikkk#gh-dark-mode-only) &nbsp;&nbsp;
 [![YouTube](./Images/youtube-light.svg#gh-light-mode-only)](https://youtube.com/@hxrdikk#gh-light-mode-only)
-[![YouTube](./Images/youtube-dark.svg#gh-dark-mode-only)](https://youtube.com/@hxrdikk#gh-dark-mode-only)
-[![website](./img/twitter-light.svg)](https://twitter.com/hxrdikkk#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/hxrdikkk#gh-dark-mode-only)
+[![YouTube](./Images/youtube-dark.svg#gh-dark-mode-only)](https://youtube.com/@hxrdikk#gh-dark-mode-only) &nbsp;&nbsp;
+[![website](./Images/twitter-light.svg#gh-light-mode-only)](https://twitter.com/hxrdikkk#gh-light-mode-only)
+[![website](./Images/twitter-dark.svg#gh-dark-mode-only)](https://twitter.com/hxrdikkk#gh-dark-mode-only)
 
 </div>
 
