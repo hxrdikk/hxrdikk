@@ -5,7 +5,7 @@
 
 <div style="margin-top:12px;"></div> 
 
-<!-- ~about Me -->
+<!-- ~about me -->
 <h3 align="left"> ✨ About Me:</h3>
 
 <div style="margin-top:12px;"></div> 
