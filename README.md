@@ -22,7 +22,7 @@
 <h3 align="left"> 🔥 Streaks:</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxrdikk&theme=dark&hide_border=false&background=00000000" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=hxrdikk&theme=dark&hide_border=false" height="180" />
 </p>
 
 <p align="left">
