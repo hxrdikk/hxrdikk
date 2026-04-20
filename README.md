@@ -63,15 +63,16 @@ Every line of code tells a story of creativity, growth, and persistence 🚀.
 <!-- ~tech stack -->
 <h3 align="left"> 🛠️ Tech Stacks:</h3>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 0 15px;">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin: 0 15px;">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="margin: 0 15px;">
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40" style="margin: 0 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 0 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 0 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 0 15px;">
-</div>
+<table align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+</p>
 
 <br>
 
